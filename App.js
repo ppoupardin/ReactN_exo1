@@ -35,21 +35,21 @@ const styles = StyleSheet.create({
     height:'100%'
   },
   header:{
-    height:50,
+    height:'5%',
     backgroundColor:'#e0e0e0',
     alignItems:'center',
     borderWidth:1,
     borderColor:'#000'
   },
   titleHeader:{
-    fontSize:30,
+    fontSize:25,
   },
   content:{
     justifyContent:'flex-start',
-    height: '80%',
+    height: '90%',
   },
   footer:{
-    height:50,
+    height:'5%',
     backgroundColor:'#e0e0e0',
     alignItems:'center',
     justifyContent:'center',
